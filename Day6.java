@@ -9,7 +9,7 @@ public class Day6 {
     
     //Variabel
         System.out.println( "Nama : " +nama);
-        System.out.println( "Umur : " +umur);
+        System.out.println( "Umur : " +umur +" Tahun");
         System.out.println( "Tinggi Badan : " +tinggibadan +" cm");
         System.out.println( "Berat Badan : " +beratbadan +" kg");    
     }
