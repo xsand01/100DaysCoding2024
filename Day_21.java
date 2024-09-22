@@ -1,12 +1,11 @@
 package Coding100Day;
 
 public class Day_21 {
-// tipe data referance String
     public static void main(String[] args) {
-        
-        Short angka = 1000;
-        System.out.println("nilai Short = " + angka);
-          
+        //Tipe Data Reference Short
+        short nilaiPrimitiv = 1000; // Tipe data primitif
+        Short kelasPembungkus = nilaiPrimitiv; // Mengkonversi ke kelas pembungkus
+        System.out.println("Nilai kelas pembungkus: " + kelasPembungkus);
     }
 
 }
