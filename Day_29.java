@@ -8,7 +8,7 @@ public class Day_29 {
         BigInteger a = new BigInteger("123456789012345678901234567890");
         BigInteger b = new BigInteger("123456789123456789123456789");
         System.out.println("Nilai Big Integer 1 = " + a);
-        System.out.println("Nilai Big Integer 1 = " + b);
+        System.out.println("Nilai Big Integer 2 = " + b);
     }
 
 }
