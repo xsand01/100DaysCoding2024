@@ -13,7 +13,7 @@ public class Day_34 {
         System.out.print("Masukan Umur = ");
         int umur = input.nextInt();
         System.out.print("Masukan Tinggi Badan = ");
-        Double tb = input.nextDouble();
+        double tb = input.nextDouble();
         System.out.print("Masukan Berat Badan = ");
         double bb = input.nextDouble();
         System.out.println("===================================================");
