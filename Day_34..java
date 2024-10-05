@@ -17,7 +17,7 @@ public class Day_34 {
         System.out.print("Masukan Berat Badan = ");
         double bb = input.nextDouble();
         System.out.println("===================================================");
-        System.out.println("Nama " + nama + " berumur " + 18 + " Tahun memiliki tinggi badan " + tb + " cm " + " dan memiliki Berat Badan " + bb + " kg ");
+        System.out.println("Nama " + nama + " berumur " + umur + " Tahun memiliki tinggi badan " + tb + " cm " + " dan memiliki Berat Badan " + bb + " kg ");
 
     }
 }
