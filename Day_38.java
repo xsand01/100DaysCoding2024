@@ -25,7 +25,7 @@ public class Day_38 {
         System.out.print("Masukan angka b = ");
         int angka2 = input.nextInt();
         angka1 /= angka2;
-        System.out.println("Hasil Pembagian = ");
+        System.out.println("Hasil Pembagian = "+angka1);
 
     }
 }
