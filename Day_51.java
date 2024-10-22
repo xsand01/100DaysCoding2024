@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Day_51 {
 
     public static void main(String[] args) {
+        //Switch Case
         Scanner input = new Scanner(System.in);
         System.out.print("Masukan nomor hari (1-7) = ");
         int a = input.nextInt();
