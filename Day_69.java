@@ -21,7 +21,7 @@ public class Day_69 {
         int b = in.nextInt();
         int hasilKali = perkalian(a, b);
         int hasilBagi = pembagian(a, b);
-        System.out.println("====================================================");
+        System.out.println("=====================================================");
 
         System.out.println("Hasil penjumlahan = " + hasilKali + " \n" + "Hasil Pengurangan = " + hasilBagi); // Output: Hasil penjumlahan: 8
     }
