@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Day_73 {
 
     public static void main(String[] args) {
-        /*Metode charAt() dalam Java adalah metode bawaan yang digunakan 
+        /*
+        Metode charAt() dalam Java adalah metode bawaan yang digunakan 
         untuk mendapatkan karakter pada indeks tertentu dalam sebuah String. 
         Metode ini mengembalikan karakter berdasarkan posisi indeks yang dimulai
         dari 0 (indeks pertama).
