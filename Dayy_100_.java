@@ -24,6 +24,6 @@ public class Day_100 {
 
             System.out.println("Selamat malam " + nama + " Program anda telah selesai ");
             System.out.println("=================================================");
-        }
+         }
     }
 }
